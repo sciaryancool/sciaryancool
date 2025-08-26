@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Kaushik 👋  
+# Hi, I'm Aryan Kaushik 
 
 🚀 **Full-Stack Developer | Computer Science Engineer | Tech Enthusiast**  
 
