@@ -1,13 +1,13 @@
 # Hi, I'm Aryan Kaushik 
 
-🚀 **Full-Stack Developer | Computer Science Engineer | Tech Enthusiast**  
+ **Full-Stack Developer | Computer Science Engineer | **  
 
 I build **scalable, secure, and modern applications** with a focus on **performance, reliability, and design**.  
 Passionate about **system architecture, authentication, and full-stack development**, I’m on a journey to create world-class software.  
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
@@ -22,14 +22,14 @@ Passionate about **system architecture, authentication, and full-stack developme
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
 - **Full Stack Developer** – *Equipmitra Technologies Pvt. Ltd* (Jun 2025 – Aug 2025)  
 - **Frontend Developer (Lead)** – *Furious Networks Services Pvt. Ltd* (Jul 2023 – Sep 2023)  
 
 ---
 
-## 📌 Featured Projects  
+##  Featured Projects  
 
 🔹 **[Project Narayan](#)** – Next Gen Scalable Productivity Chat App *(In Progress)*  
 - Hybrid backend (**Spring Boot Security Microservice + Node.js APIs**)  
@@ -46,32 +46,10 @@ Passionate about **system architecture, authentication, and full-stack developme
 - Next.js, Tailwind, TypeScript, Prisma + PostgreSQL, JWT CMS  
 
 🔹 **[Krixel Studio](#)** – Pixar-Style Animation Portfolio  
-- Next.js, Tailwind, Framer Motion with immersive design  
-
----
-
-## 🎯 Roles & Achievements  
-
-- Executive President – **E-Cell Shobhit University** (2024 – 2025)  
-- Lead Web Developer – **Tech Fest Website** (Nov 2024)  
-- 🥇 **National Science Fest Winner** – Shobhit University (2024)  
-
----
-
-## 📊 GitHub Stats  
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sciaryancool&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sciaryancool&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sciaryancool&theme=tokyonight)  
-
----
+- Next.js, Tailwind, Framer Motion with immersive design
 
 ## 📫 Connect with Me  
 
 🌐 [Portfolio](https://aryankaushik.space)  
 💼 [LinkedIn](https://linkedin.com/in/aryan-kaushik-083219245)  
-📧 [sciaryan77@gmail.com](mailto:sciaryan77@gmail.com)  
-
----
-
-✨ *Always learning. Always building.*  
+📧 [sciaryan77@gmail.com](mailto:sciaryan77@gmail.com) 
