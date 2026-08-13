@@ -38,6 +38,6 @@ Passionate about **system architecture, authentication, and full-stack developme
 
 ## 📫 Connect with Me  
 
-🌐 [Aero Messenger](https://aeroaryankaushik.space)  
+🌐 [Aero Messenger](https://aero.aryankaushik.space)  
 💼 [LinkedIn](https://linkedin.com/in/aryan-kaushik-083219245)  
 📧 [sciaryan77@gmail.com](mailto:sciaryan77@gmail.com) 
