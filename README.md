@@ -25,25 +25,19 @@ Passionate about **system architecture, authentication, and full-stack developme
 
 ##  Featured Projects  
 
-🔹 **[Project Narayan](#)** – Next Gen Scalable Productivity Chat App *(In Progress)*  
-- Hybrid backend (**Spring Boot Security Microservice + Node.js APIs**)  
-- Features: JWT, Argon2/BCrypt, OAuth2, WebAuthn, PoP tokens, Redis, MFA  
+🔹 **[Aero Messenger](#)** – Next Gen Scalable Productivity Chat App
+- Hybrid backend (**Express + Typescript + Node.js + MongoDB**)  
+- Features: Meetings, Grace Ai, Encrypted chats, docks(groups) and communities, Workspace, Calls & Videocalls  
 
 🔹 **[Rudra UAV](#)** – Autonomous Fixed-Wing Drone  
 - Reconnaissance missions with sensors (GPS, Barometer, Autopilot)  
 - Tech: Python, C++, Arduino, INAV  
-
-🔹 **[Silence Chat](#)** – Real-Time Productivity Chat App  
-- React.js + Firebase + Zustand, minimal design with productivity tools  
-
-🔹 **[Portfolio V3](#)** – Full-Stack Developer Portfolio  
-- Next.js, Tailwind, TypeScript, Prisma + PostgreSQL, JWT CMS  
 
 🔹 **[Krixel Studio](#)** – Pixar-Style Animation Portfolio  
 - Next.js, Tailwind, Framer Motion with immersive design
 
 ## 📫 Connect with Me  
 
-🌐 [Portfolio](https://aryankaushik.space)  
+🌐 [Aero Messenger](https://aeroaryankaushik.space)  
 💼 [LinkedIn](https://linkedin.com/in/aryan-kaushik-083219245)  
 📧 [sciaryan77@gmail.com](mailto:sciaryan77@gmail.com) 
